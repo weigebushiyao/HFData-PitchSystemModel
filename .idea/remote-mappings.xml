@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@d3affd56-7360-4bc5-aafa-6f8f497bc6be" />
+        <remote-mappings server-id="python@sftp://root@192.168.0.91:22/root/pyenv/pyvenv/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/root/pyenv/project/HFData-PitchSystemModel" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
